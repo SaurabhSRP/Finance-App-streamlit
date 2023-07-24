@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-DateTime
-yfinance
-plotly==5.15.0
-requests
