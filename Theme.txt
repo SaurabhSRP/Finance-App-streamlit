@@ -1,0 +1,7 @@
+[theme]
+base="light"
+backgroundColor="#ebf3eb"
+secondaryBackgroundColor="#dcf1e6"
+
+
+Create a ".streamlit" folder and include "config.toml" file and copy the above code.
