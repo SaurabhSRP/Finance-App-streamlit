@@ -5,3 +5,5 @@ DateTime
 yfinance
 plotly==5.15.0
 requests
+scikit-learn
+install tensorflow
